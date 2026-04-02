@@ -47,7 +47,7 @@ export default function Home() {
         >
           <div className="w-40 h-40 md:w-56 md:h-56 rounded-full glass p-2 mx-auto overflow-hidden">
             <img 
-              src="public/uploads/foto profil diri.jpeg" 
+              src="/uploads/foto profil diri.jpeg" 
               alt="Evelyn Christabel"
               className="w-full h-full object-cover rounded-full"
               referrerPolicy="no-referrer"
