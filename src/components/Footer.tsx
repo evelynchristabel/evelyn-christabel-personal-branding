@@ -38,7 +38,7 @@ export default function Footer() {
         
         <div className="space-y-2 text-gray-500 text-sm">
           <p>© 2026 Evelyn Christabel. Built with love and pastels.</p>
-          <p>SMAK Frateran Surabaya</p>
+          <p>Petra Christian University</p>
         </div>
       </div>
     </footer>
