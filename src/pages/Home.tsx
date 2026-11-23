@@ -91,7 +91,7 @@ export default function Home() {
             transition={{ delay: 0.2 }}
             className="inline-block px-4 py-1.5 rounded-full bg-pastel-blue text-blue-600 text-sm font-bold border border-blue-200"
           >
-            Currently Studying at SMAK Frateran Surabaya
+            Currently Studying at Petra Christian University
           </motion.div>
         </div>
       </section>
